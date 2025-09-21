@@ -1,3 +1,3 @@
 The Graph structure ( below )
 
-![alt text](image.png)
+![alt text](graph_structure_final.png)
